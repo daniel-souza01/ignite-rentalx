@@ -1,6 +1,6 @@
 // PostgresCategoriesRepository
 
-import { Category } from '../modules/cars/model/Category'
+import { Category } from '../model/Category'
 import {
   ICategoriesRepository,
   ICreateCategoryDTO

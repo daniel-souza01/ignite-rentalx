@@ -13,4 +13,4 @@ class Specification {
   }
 }
 
-export { Specification as Especification }
+export { Specification }
